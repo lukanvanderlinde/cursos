@@ -1,6 +1,6 @@
 # Guia de cursos para adquirir habilidades em T
 
-![mind-blow](https://giphy.com/gifs/producthunt-mind-blown-blow-your-26ufdipQqU2lhNA4g)
+![mind-blow](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
 
 --
 
@@ -11,5 +11,4 @@ http://howedu.com.br/
 http://somostera.com/
 
 https://www.perestroika.com.br/
-
 
