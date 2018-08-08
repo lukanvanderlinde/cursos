@@ -27,3 +27,7 @@ https://www.perestroika.com.br/
 http://gamestorming.com/
 
 https://www.designbetter.co/
+
+https://descola.org/
+
+https://aldeia.cc/
