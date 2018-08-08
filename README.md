@@ -23,3 +23,7 @@ http://howedu.com.br/
 http://somostera.com/
 
 https://www.perestroika.com.br/
+
+http://gamestorming.com/
+
+https://www.designbetter.co/
