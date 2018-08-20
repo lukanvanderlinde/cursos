@@ -31,3 +31,7 @@ https://www.designbetter.co/
 https://descola.org/
 
 https://aldeia.cc/
+
+https://codelabs.developers.google.com/
+
+https://learndigital.withgoogle.com/
