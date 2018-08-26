@@ -39,3 +39,9 @@ https://learndigital.withgoogle.com/
 https://education.github.com/
 
 http://brainstormcursos.com.br/
+
+https://gsuite.google.com/learning-center/
+
+https://veduca.org/
+
+https://www.coursera.org/courses
