@@ -45,3 +45,5 @@ https://gsuite.google.com/learning-center/
 https://veduca.org/
 
 https://www.coursera.org/courses
+
+https://reactfordesigners.com/
