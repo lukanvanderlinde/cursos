@@ -14,7 +14,15 @@ Se possuir material interessante, por favor compartilhe com a comunidade. Estamo
 
 No mais, é isso. Bem vindx!
 
+https://www.udemy.com/ - cursos pagos mas da pra assistir as primeiras aulas gratuitamente, (e sempre tem disconto no site, não caiam na pegadinha "só mais 8h de desconto de 80%")
 
+https://veduca.org/ - 100% gratuitos só paga se quiser ter o certificado
+
+https://www.edx.org/ - feito pela Havard e pelo MIT, 100% gratuito só paga se quiser ter certificado
+
+https://www.skillshare.com/
+
+https://brilliant.org/ - voltado mais para area de exatas e lógica
 
 https://brandster.com.br/
 
