@@ -22,6 +22,8 @@ https://www.edx.org/ - feito pela Havard e pelo MIT, 100% gratuito só paga se q
 
 https://www.skillshare.com/
 
+https://web.dev/learn
+
 https://brilliant.org/ - voltado mais para area de exatas e lógica
 
 https://brandster.com.br/
