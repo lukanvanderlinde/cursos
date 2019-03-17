@@ -63,3 +63,15 @@ https://getmimo.com/
 https://academy.hubspot.com
 
 https://brilliant.org/
+
+https://lab.github.com/courses
+
+http://www.openuniversity.edu/
+
+https://www.ipma.world/
+
+https://www.pmi.org/
+
+https://www.estudar.org.br/
+
+https://digitalinnovation.one/
