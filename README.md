@@ -75,3 +75,7 @@ https://www.pmi.org/
 https://www.estudar.org.br/
 
 https://digitalinnovation.one/
+
+https://www.perestroika.com.br/online/cursos/
+
+https://pirple.thinkific.com/pages/name-your-own-price
