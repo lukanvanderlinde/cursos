@@ -83,3 +83,5 @@ https://pirple.thinkific.com/pages/name-your-own-price
 https://b-ok.cc/s/?q=Tim+brown
 
 https://atendimento.sebrae-sc.com.br/cursos/empretec-seminario/
+
+https://www.atlassian.com/software
