@@ -85,3 +85,5 @@ https://b-ok.cc/s/?q=Tim+brown
 https://atendimento.sebrae-sc.com.br/cursos/empretec-seminario/
 
 https://www.atlassian.com/software
+
+https://rocketseat.com.br/starter
